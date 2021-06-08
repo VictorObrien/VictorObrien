@@ -5,8 +5,7 @@
  - 🔭 Formado em Análise e Desenvolvimento de Sistemas pela [Estácio](https://www.estacio.br)
  - 🌱 Atualmente estou focado no processo de aprendizagem da stack de Front-End  .
  - 👯 Procuro colaborar em projetos de front-end.
- - 💬 Me pergunte sobre HTML5, CSS, JS
- - 💀 Estou morrendo por uma oportunidade como dev
+ - 💬 Me pergunte sobre HTML5, CSS, JS, React
  - 😍 Amo minha esposa e filho, code e café.
  - ⚡ Fun fact: sou músico multi-instrumentista.
 
