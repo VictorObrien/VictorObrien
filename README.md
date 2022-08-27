@@ -1,13 +1,13 @@
 ## Paulo Victor Rebouças (Victor Obrien) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### Sobre mim
+### About me
 
- - 🔭 Formado em Análise e Desenvolvimento de Sistemas pela [Estácio](https://www.estacio.br)
- - 🌱 Atualmente estou focado no processo de aprendizagem da stack de Front-End  .
- - 👯 Procuro colaborar em projetos de front-end.
- - 💬 Me pergunte sobre HTML5, CSS, JS, React e React Native.
- - 😍 Amo minha esposa,filho e filha, code e café.
- - ⚡ Fun fact: sou músico multi-instrumentista.
+ - 🔭 Graduated in Systems Analysis and Development at [Estácio](https://www.estacio.br)
+ - 🌱 Currently working as a Front-End Developer.
+ - 👯 I'm looking to collaborate on front-end projects.
+ - 💬 Ask me about HTML5, CSS, JS, TS, React, NextJs and React Native.
+ - 😍 Love my wife, son and daughter, code and coffee.
+ - ⚡ Fun fact: I'm a multi-instrumentalist musician.
 
 ### Skils <br>
 
@@ -23,7 +23,7 @@
 <img height="26" alt="NextJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> &nbsp;
 <img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
 
-### Entre em contato ⤵️
+### Get in touch ⤵️
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-victor-rebou%C3%A7as-pereira-a6a72aa8/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvictor.dev@gmail.com)
