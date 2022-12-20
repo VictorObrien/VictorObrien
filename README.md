@@ -16,11 +16,13 @@
 <img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height="26" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
 <img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
+<img height="26" alt="MaterialUI" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"> &nbsp;
+<img height="26" alt="NextJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> &nbsp;
 <img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ### Learning: <br>
 
-<img height="26" alt="NextJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> &nbsp;
+<img height="26" alt="JamStack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jamstack/jamstack-original.svg"> &nbsp;
 <img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
 
 ### Get in touch ⤵️
