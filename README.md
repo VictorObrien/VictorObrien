@@ -18,7 +18,6 @@
 <img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
 <img height="26" alt="MaterialUI" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"> &nbsp;
 <img height="26" alt="NextJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> &nbsp;
-<img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ### Learning: <br>
 
