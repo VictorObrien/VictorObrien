@@ -6,7 +6,7 @@
  - 🌱 Currently working as a Front-End Developer.
  - 👯 I'm looking to collaborate on front-end projects.
  - 💬 Ask me about HTML5, CSS, JS, TS, React, NextJs and React Native.
- - 😍 Love my wife, son and daughter, code and coffee.
+ - 😍 Love my son daughter, code and coffee.
  - ⚡ Fun fact: I'm a multi-instrumentalist musician.
 
 ### Skils <br>
@@ -18,6 +18,7 @@
 <img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
 <img height="26" alt="MaterialUI" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"> &nbsp;
 <img height="26" alt="NextJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> &nbsp;
+<img height="26" alt="Tailwind" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"> &nbsp;
 
 ### Learning: <br>
 
